@@ -1,0 +1,358 @@
+.clear {
+    display: table;
+    content: '';
+    clear: both;
+}
+
+/* Trips, map and time line ariticle div  */
+#plane_trip {
+
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* left side: container trip list*/
+
+#plane_trip #left {
+
+    flex: 4;
+    padding: 2;
+
+}
+
+#list_result_container {
+
+    position: relative;
+
+}
+
+/* sort by stars css*/
+
+#sort_container {
+
+    width: 99%;
+    height: 120px;
+    padding: 5px;
+    background-color: white;
+    border: 10px solid rgb(205, 180, 219);
+    display: flex;
+    margin-bottom: 70px;
+    position: relative;
+
+}
+
+#sort_container .left {
+    flex: 2;
+    position: relative;
+}
+
+#sort_container .right {
+    flex: 2;
+}
+
+#sort_container .right div {
+
+    float: right;
+    margin: 5;
+    border: 3px solid grey;
+    cursor: pointer;
+
+
+}
+
+#sort_review {
+    border: 10px solid black;
+    background-color: white;
+    height: 120px;
+    width: 260px;
+    padding: 20;
+    margin: 35 0 0 30;
+}
+
+.star {
+    font-size: 250%;
+    margin: 10px;
+    color: rgb(163, 159, 123);
+    cursor: pointer;
+
+
+}
+
+.review_info {
+
+    margin-left: 15;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+
+.block_box {
+
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    height: 300px;
+}
+
+.block_box .left {
+    flex: 2;
+    background: #E4DBDD;
+}
+
+.block_box .left img {
+    width: 99%;
+    height: 99%;
+    opacity: 1;
+}
+
+.block_box .right {
+    flex: 2;
+    background: rgb(205, 180, 219);
+    position: relative;
+}
+
+.area_box {
+    border: 5px solid black;
+    font-size: 20px;
+    text-align: right;
+    width: auto;
+    float: right;
+    padding: 4;
+    display: table;
+}
+
+.block_box h1 {
+
+    border-bottom: 2px solid rgb(22, 22, 22);
+    opacity: 2;
+    border-radius: 1px;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    margin: 90px 0 0 40;
+}
+
+.block_box h2 {
+
+    width: 90%;
+    font-size: 15px;
+    margin: 0px 0 0 40;
+
+}
+
+.link_show_map {
+
+    font-size: 15px;
+    border: 1px solid pink;
+    cursor: pointer;
+    position: absolute;
+    bottom: 10;
+    right: 120;
+}
+
+.link_view_details {
+
+    font-size: 15px;
+    border: 1px solid pink;
+    cursor: pointer;
+    position: absolute;
+    bottom: 10;
+    right: 10;
+
+}
+
+.link_hide_details {
+    cursor: pointer;
+    position: absolute;
+    right: 20;
+
+}
+
+.box_info_expand::before {
+
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+.box_info_expand {
+    height: auto;
+    padding: 5;
+    border-bottom: 3px solid #DCE2E4;
+    border-top: 1px solid #DCE2E4;
+    background-color: rgb(192, 170, 204);
+    width: 100%;
+    display: none;
+
+}
+
+.box_info_expand h3 {
+
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 0 0 60;
+}
+
+.filter_list {
+    filter: blur(4px);
+}
+
+#historical_list_result {
+    width: 99%;
+    height: auto;
+    padding: 0px;
+    border: 3px solid #DCE2E4;
+    margin: 40 auto;
+    border-radius: 3px;
+    position: relative;
+
+}
+
+#gastro_list_result {
+
+    width: 99%;
+    height: auto;
+    padding: 0px;
+    border: 3px solid #DCE2E4;
+    margin: 40px 0px 25px 5px;
+    border-radius: 3px;
+    position: relative;
+
+}
+
+#teenager_list_result {
+
+    width: 99%;
+    height: auto;
+    padding: 0px;
+    border: 3px solid #DCE2E4;
+    margin: 40px 0px 25px 5px;
+    border-radius: 3px;
+    position: relative;
+
+}
+
+.first,
+.second,
+.third,
+.forth,
+.fifth {
+
+    color: black;
+    width: 80%;
+    margin: 20px 0 0 60;
+    padding: 5;
+    font-size: 15px;
+    text-align: left;
+    border-bottom: 3px solid grey;
+
+}
+
+.icon_img {
+    width: 40px;
+    display: inline-flex;
+    -ms-flex-align: center;
+    -ms-flex-align: end;
+    padding: 20px;
+    margin: 20px;
+}
+
+.loading_trip_result {
+
+    position: absolute;
+    font-size: 2pc;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 40px;
+    top: 5%;
+    left: 15%;
+    padding: 20px;
+    border: 15px solid #f3e5ed;
+    background-color: #ead6e8;
+    width: 60%;
+    text-align: center;
+    height: auto;
+
+}
+
+/* right side: map and time line*/
+#plane_trip #right {
+
+    flex: 4;
+    height: 75vh;
+    padding: 2px;
+
+
+}
+
+#trip_map_container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    height: auto;
+    padding: 5;
+    background-color: rgb(205, 180, 219);
+    border: 8px solid #E4DBDD;
+}
+
+.area_container {
+
+    margin: 5px;
+    width: auto;
+    height: auto;
+    padding: 5;
+    text-align: center;
+    cursor: pointer;
+    border-bottom: 2px solid #AF99FF;
+
+}
+
+.active,
+.area_container:hover {
+    opacity: 0.4;
+}
+
+#map {
+    height: 500px;
+    width: 100%;
+    padding: 5;
+    background-repeat: no-repeat;
+    position: relative;
+    border: 4px solid #E4DBDD;
+
+}
+
+#close_button {
+    border: 1px solid black;
+    width: 100px;
+    height: 50px;
+    background: white;
+    position: absolute;
+    top: 10;
+    right: 0;
+    z-index: 9999;
+    text-align: center;
+    left: 50px;
+    cursor: pointer;
+    display: none;
+
+}
+
+#area_selected_container {
+
+    border: 1px solid black;
+    width: 200px;
+    height: 120px;
+    background: white;
+    position: absolute;
+    top: 10;
+    right: 0;
+    z-index: 9999;
+    text-align: center;
+    right: 1%;
+    display: none;
+}

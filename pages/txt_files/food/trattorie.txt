@@ -1,0 +1,12 @@
+Osteria angelino|41.8890701|12.4919877|Via Capo d'Africa, 6|Colosseo|4,1|sito|contatti|foto|
+Trattoria lilli|41.9015102|12.4684491|Via di Tor di Nona, 23|Piazza Navona|4,4|sito|contatti|foto|
+Cucina del teatro|41.9003678|12.4672632|Vicolo di S. Simeone, 70|4,2|Piazza Navona|sito|contatti|foto|
+Il salotto del Colosseo|41.8889921|12.4941462|Via di S. Giovanni in Laterano, 42|Colosseo|4,3|sito|contatti|foto|
+Trattoria da Tito|41.8998874|12.4908356|Via Venezia, 17|Piazza Venezia|4,5|sito|contatti|foto|
+Antica trattoria angelino|41.8941426|12.4776921|Piazza Margana, 37|Piazza Venezia|4,1|sito|contatti|foto|
+Trattoria alla ara coeli|41.8941815|12.4789858|Piazza d'Aracoeli, 5|Piazza Venezia|3,1|sito|contatti|foto|
+Poldo e Gianna osteria|41.9022197|12.47504037|Vicolo Rosini, 6|Piazza Navona|4,6|sito|contatti|foto|
+Il sorpasso|41.9044087|12.461963|Via Properzio, 31|Castel Sant'Angelo|4,4|sito|contatti|foto|
+Osteria quattro e quattro otto|41.8889921|12.4941462|Via dei SS. Quattro, 30|Colosseo|4,0|sito|contatti|foto|
+Passaguai|41.9057035|12.4581026|Via Pomponio Leto, 1|Castel Sant'Angelo|4,4|sito|contatti|foto|
+La zanzara|41.9061042|12.457929|Via Crescenzio, 84|Castel Sant'Angelo|4,0|sito|contatti|foto|

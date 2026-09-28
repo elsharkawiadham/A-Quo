@@ -1,0 +1,36 @@
+#time_line_containerChild{
+
+    border: 1px solid black;
+    width: 100%;
+    display: flex;
+    background-color:white;
+    height: auto;
+    margin-top: 20px;
+    padding: 20px;
+
+}
+
+.stops_box{
+    width: 120px;
+    background-color: blueviolet;
+    height: 120px;
+    opacity: 0.4;
+
+}
+
+
+.line_container{
+    width: 100px;
+    border: 1px solid black;
+    height: 20px;
+    float: right;
+}
+
+.line{
+    
+    width: -0px;
+    height: 20px;
+    margin: 0px;
+    transition: width 8s;
+    transition-delay: 3s;
+}

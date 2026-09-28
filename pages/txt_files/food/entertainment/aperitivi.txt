@@ -1,0 +1,14 @@
+Ristornte colosseo "Luzzi"|41.889299|12.4944493|address|Colosseo|review|sito|contatti|foto|
+La prezzemolina|41.8931775|12.4867322|address|Colosseo|review|sito|contatti|foto|
+La Montecarlo|41.897596|12.4685842|address|Piazza Navona|review|sito|contatti|foto|
+4 fiumi|41.8992843|12.4707066|address|Piazza Navona|review|sito|contatti|foto|
+Pizzeria da Lorenzo|41.8996085|12.4711894|address|Piazza Navona|review|sito|contatti|foto|
+Bernini ristorante| 41.899952|12.4704863|address|Piazza Navona|review|sito|contatti|foto|
+Bibo ristorante|41.8975995|12.4810696|address|Piazza Venezia|review|sito|contatti|foto|
+Pizza e Mozzarella|41.8967288|12.4796558|address|Piazza Venezia|review|sito|contatti|foto|
+Ambasciata di Capri|41.9073641|12.4670946|address|Castel Sant'Angelo|review|sito|contatti|foto|
+Ristoro della salute|41.8899311|12.4920612|address|Colosseo|review|sito|contatti|foto|
+L'officina della pizza|41.9044525|12.4663596|address|Castel Sant'Angelo|review|sito|contatti|foto|
+Sforniamo|41.9080158|12.4683508|address|Castel Sant'Angelo|review|sito|contatti|foto|
+Grano la cucina di Traiano|41.8960869|12.4832673|address|Piazza Venezia|review|sito|contatti|foto|
+Pizzeria malaterra|41.907308|12.4661918|address|Castel Sant'Angelo|review|sito|contatti|foto|

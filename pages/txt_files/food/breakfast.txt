@@ -1,0 +1,15 @@
+Er Caffettiere|41.8949856|12.4929144|address|Colosseo|3.6|sito|contatti|foto|
+Oppio Caffè|41.891496|12.4927855|address|Colosseo|4.3|sito|contatti|foto|
+La bottega del caffè|41.8949549|12.4910693|address|Colosseo|3|sito|contatti|foto|
+Bar La Licata|41.8946396|12.490883|address|Colosseo|5|sito|contatti|foto|
+Barnum cafè|45.3120667|9.4984236|address|Piazza Navona|3|sito|contatti|foto|
+L'antico forno|41.9007346|12.4830594|address|Colosseo|5.4|sito|contatti|foto|
+Cin cin bar|41.8968189|12.483096|address|Piazza Venezia|4.8|sito|contatti|foto|
+Bar orologio|41.8989805|12.4673684|address|Piazza Navona|4.5|sito|contatti|foto|
+Caffè Novecento41.899364|12.4679491|address|Piazza Navona|3|sito|contatti|foto|
+Emporio della pace|41.8992046|12.4701252|address|Piazza Navona|5.4|sito|contatti|foto|
+Bar Brasile|41.8955257|12.482415|address|Piazza Venezia|5|sito|contatti|foto|
+Antico caffè castellino|41.8970252|12.4828151|address|Piazza Venezia|4.5|sito|contatti|foto|
+Bibo cafè|41.8976561|12.4830814|address|Piazza Venezia||3|contatti|foto|
+Bar nero caffè|41.9010668|12.4640963|address|Castel Sant'Angelo|5.4|sito|contatti|foto|
+Gran caffè la caffettiera|41.9000781|12.4777329|address|Castel Sant'Angelo|4.5|sito|contatti|foto|
